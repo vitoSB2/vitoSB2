@@ -29,9 +29,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoSB2&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoSB2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vitoSB2&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitoSB2&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoSB2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vitoSB2&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="130" alt="streak graph"  />
 </div>
 
 ###
