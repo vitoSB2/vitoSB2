@@ -4,17 +4,17 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
 </div>
 
